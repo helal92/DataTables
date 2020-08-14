@@ -500,7 +500,7 @@ class SSP {
 			'type' => $type
 		);
 
-		return $key;
+		return $val;
 	}
 
 
